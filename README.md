@@ -5,6 +5,11 @@ Upload one or multiple PDFs, control chunking, temperature, and retrieval behavi
 Indexes are **persisted on disk** so you don’t re-embed your corpus every run.
 
 ---
+## 🖼️ Demo Screenshot
+
+![PDF Q&A Demo](assets/Demo.jpg)
+
+
 
 ## ✨ Features
 
