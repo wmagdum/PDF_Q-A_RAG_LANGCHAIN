@@ -1,0 +1,16 @@
+langchain_core
+langchain_community
+pymupdf
+openai
+chromadb
+ipykernel
+langchain-openai
+streamlit>=1.33.0
+langchain>=0.2.0
+langchain-openai>=0.1.7
+langchain-community>=0.2.0
+faiss-cpu>=1.8.0
+python-dotenv>=1.0.1
+pypdf>=4.2.0
+numpy>=1.26.0
+tiktoken>=0.7.0
